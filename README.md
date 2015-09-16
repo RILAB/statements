@@ -1,4 +1,4 @@
-# Research and Teaching Statements in Evolutiona and Ecology
+# Research and Teaching Statements in Evolution and Ecology
 
 Here are a set of example research and teaching statements for tenure-track positions in Ecology and Evolutionary Biology. 
 
