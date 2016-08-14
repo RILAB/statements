@@ -4,7 +4,7 @@
 
 Successful grant applications.
 
-## Research and Teaching Statements in Evolution and Ecology
+## Research and Teaching Statements
 
 Research and teaching statements for tenure-track positions in Ecology and Evolutionary Biology from successful candidates. 
 
