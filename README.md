@@ -2,7 +2,7 @@
 
 ## Grants
 
-Successful grant applications. See this [list](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) as well for additional grants.
+Successful grant applications. See this [list](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) as well for additional grants, and [Yaniv Brandvain's collection of NSF GRFP applications](https://github.com/ybrandvain/GRFP).
 
 ## Research and Teaching Statements
 
