@@ -8,7 +8,7 @@ Job applications now include cover letters, CVs, research and teaching statement
 I've divided them up into industry/nonprofit research, research university, and primarily undergradguate university.
 There is a bias towards plants and evolution, as that's folks I know and can badger into contributing. 
 
-## Grants
+### Grants
 
 Successful grant applications. See this [list](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) as well for additional grants, and [Yaniv Brandvain's collection of NSF GRFP applications](https://github.com/ybrandvain/GRFP).
 
