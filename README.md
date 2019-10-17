@@ -4,7 +4,7 @@ All the job and grant applications here are successful, hopefully providing a di
 
 ### Job Applications
 
-Job applications now include cover letters, CVs, research and teaching statements, and even some interview presentations. 
+Job applications now include cover letters, CVs, research, teaching, and diversity statements, and even some interview presentations. 
 I've divided them up into industry/nonprofit research, research university, and primarily undergradguate university.
 There is a bias towards plants and evolution, as that's folks I know and can badger into contributing. 
 
