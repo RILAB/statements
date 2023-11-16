@@ -10,7 +10,7 @@ There is a bias towards plants and evolution, as that's folks I know and can bad
 
 ### Grants
 
-Successful grant applications. See this [list](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) as well for additional grants.
+Successful grant applications. See this [website](https://www.ogrants.org/) as well for additional grants.
 
 
 ### Fellowships
