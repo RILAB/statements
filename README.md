@@ -8,6 +8,8 @@ Job applications now include cover letters, CVs, research, teaching, and diversi
 I've divided them up into industry/nonprofit research, research university, and primarily undergradguate university.
 There is a bias towards plants and evolution, as that's folks I know and can badger into contributing. 
 
+Also check out [UCSF](https://career.ucsf.edu/gsp/cvs-resumes-cover-letters#Sample-resumes) and [EMBO Fellows](https://www.embl.org/about/info/embl-fellows-career-service/info-resources/job-applications/#vf-tabs__section-c3642e1b-1236-4982-910c-87fc1084ccc9) for some guidance and a few more examples. 
+
 ### Grants
 
 Successful grant applications. See this [website](https://www.ogrants.org/) as well for additional grants.
